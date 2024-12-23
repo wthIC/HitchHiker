@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043498360192",
+    "project_id": "hitchhiker-41b61",
+    "storage_bucket": "hitchhiker-41b61.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043498360192:android:244d2f728d05ee610eb565",
+        "android_client_info": {
+          "package_name": "com.hitchhiker.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ahPqkonICbgviPpr3LEW-iECyTeDTjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
